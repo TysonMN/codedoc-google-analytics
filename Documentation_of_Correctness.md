@@ -63,3 +63,9 @@ I analyzed the network traffic as described in the previous link.  When the brow
 3. `analytics.js` sends a `pageview` event to Google.
 
 Then when navigating via an internal link, another `pageview` event is sent to Google.  All of this behavior seems correct to me.
+
+TOOD: Write about
+- Single session
+- Correct timestamps
+- Correct title
+- Correct path
